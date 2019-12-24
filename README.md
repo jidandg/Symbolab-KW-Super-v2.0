@@ -36,7 +36,7 @@ Pada menu turunan, aplikasi akan meminta pengguna untuk memasukkan parameter-par
 Setelah pengguna memasukkan parameter-parameter persamaan, program akan menampilkan hasil dan meminta konfirmasi untuk menampilkan grafik persamaan.
 
 ### Contoh Grafik Hasil Turunan
-![Contoh Grafik Hasil Turunan](/Pictures/5.png)
+![Contoh Grafik Hasil Turunan](/Pictures/5.png)\n
 Contoh grafik hasil turunan.
 
 ### Contoh Hasil Turunan
@@ -56,7 +56,7 @@ Aplikasi lalu akan meminta pengguna untuk memasukkan nilai-nilai persamaan, terg
 Setelah pengguna memasukkan parameter-parameter persamaan, program akan menampilkan hasil dan meminta konfirmasi untuk menampilkan grafik persamaan.
 
 ### Contoh Grafik Hasil Integral Tak Tentu
-![Contoh Grafik Hasil Integral Tak Tentu](/Pictures/10.png)
+![Contoh Grafik Hasil Integral Tak Tentu](/Pictures/10.png)\n
 Contoh grafik hasil integral tak tentu.
 
 ### Contoh Hasil Integral Tak Tentu
@@ -76,5 +76,6 @@ Aplikasi lalu akan meminta pengguna untuk memasukkan parameter-parameter dan nil
 Contoh hasil perkalian matriks.
 
 ## Pembuat Aplikasi
+![Credits](/Pictures/15.png)
 1. Jidan Dhirayoga Gumbira (1806200116)
 2. Philipus Kristian Renaldy (1806200053)

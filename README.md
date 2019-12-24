@@ -16,6 +16,8 @@ Sebelum menggunakan aplikasi, pastikan pengguna sudah memenuhi persyaratan berik
 4. Meng-copy aplikasi gnuplot.exe pada folder gnuplot\bin\, lalu meng-paste shortcutnya pada folder yang sama dengan aplikasi Symbolab-KW-Super-v2.0.exe. Lalu, merubah nama file shortcut tersebut dari "gnuplot - Shortcut" menjadi "gnuplot".
 ![Copy](/Pictures/0a.png)
 ![Paste Shortcut](/Pictures/0b.png)
+![Old Name](/Pictures/0c.png)
+![New Name](/Pictures/0d.png)
 
 Untuk menggunakan aplikasi ini, bisa melalui dua cara:
 * Mengunduh [aplikasi disini](/Symbolab-KW-Super-v2.0.exe).
@@ -24,58 +26,58 @@ Untuk menggunakan aplikasi ini, bisa melalui dua cara:
 ## Penggunaan
 ### Menu
 ![Splash Screen](/Pictures/1.png)
-![Menu](/Pictures/2.png)
+![Menu](/Pictures/2.png)  
 Setelah melewati splash screen, aplikasi akan masuk ke tampilan menu. Pilih menu yang diinginkan untuk memulai penghitungan.
 
 ### Turunan
-![Turunan](/Pictures/3.png)
+![Turunan](/Pictures/3.png)  
 Pada menu turunan, aplikasi akan meminta pengguna untuk memasukkan parameter-parameter dan nilai-nilai persamaan.
 
 ### Hasil Turunan
-![Hasil Turunan](/Pictures/4.png)
+![Hasil Turunan](/Pictures/4.png)  
 Setelah pengguna memasukkan parameter-parameter persamaan, program akan menampilkan hasil dan meminta konfirmasi untuk menampilkan grafik persamaan.
 
 ### Contoh Grafik Hasil Turunan
-![Contoh Grafik Hasil Turunan](/Pictures/5.png)\n
+![Contoh Grafik Hasil Turunan](/Pictures/5.png)  
 Contoh grafik hasil turunan.
 
 ### Contoh Hasil Turunan
-![Contoh Hasil Turunan](/Pictures/6.png)
+![Contoh Hasil Turunan](/Pictures/6.png)  
 Contoh hasil turunan.
 
 ### Menu Integral
-![Menu Integral](/Pictures/7.png)
+![Menu Integral](/Pictures/7.png)  
 Aplikasi akan meminta jenis operasi integral yang diinginkan.
 
 ### Integral Tak Tentu
-![Integral Tak Tentu](/Pictures/8.png)
+![Integral Tak Tentu](/Pictures/8.png)  
 Aplikasi lalu akan meminta pengguna untuk memasukkan nilai-nilai persamaan, tergantung pada jenis operasi integral yang dipilih. Terlihat pada gambar di atas, jenis operasi integral yang digunakan adalah integral tak tentu.
 
 ### Hasil Integral Tak Tentu
-![Hasil Integral Tak Tentu](/Pictures/9.png)
+![Hasil Integral Tak Tentu](/Pictures/9.png)  
 Setelah pengguna memasukkan parameter-parameter persamaan, program akan menampilkan hasil dan meminta konfirmasi untuk menampilkan grafik persamaan.
 
 ### Contoh Grafik Hasil Integral Tak Tentu
-![Contoh Grafik Hasil Integral Tak Tentu](/Pictures/10.png)\n
+![Contoh Grafik Hasil Integral Tak Tentu](/Pictures/10.png)  
 Contoh grafik hasil integral tak tentu.
 
 ### Contoh Hasil Integral Tak Tentu
-![Contoh Hasil Integral Tak Tentu](/Pictures/11.png)
+![Contoh Hasil Integral Tak Tentu](/Pictures/11.png)  
 Contoh hasil integral tak tentu.
 
 ### Menu Matriks
-![Menu Matriks](/Pictures/12.png)
+![Menu Matriks](/Pictures/12.png)  
 Pada menu matriks, aplikasi akan meminta jenis operasi matriks yang diinginkan.
 
 ### Penjumlahan Matriks
-![Penjumlahan Matriks](/Pictures/13.png)
+![Penjumlahan Matriks](/Pictures/13.png)  
 Aplikasi lalu akan meminta pengguna untuk memasukkan parameter-parameter dan nilai-nilai persamaan, tergantung pada jenis operasi matriks yang dipilih. Terlihat pada gambar di atas, jenis operasi matriks yang digunakan adalah perkalian matriks.
 
 ### Contoh Hasil Perkalian Matriks
-![Contoh Hasil Perkalian Matriks](/Pictures/14.png)
+![Contoh Hasil Perkalian Matriks](/Pictures/14.png)  
 Contoh hasil perkalian matriks.
 
 ## Pembuat Aplikasi
-![Credits](/Pictures/15.png)
+![Credits](/Pictures/15.png)  
 1. Jidan Dhirayoga Gumbira (1806200116)
 2. Philipus Kristian Renaldy (1806200053)

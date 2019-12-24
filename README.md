@@ -1,4 +1,4 @@
-# Symbolab KW 1.0
+# Symbolab KW Super v2.0
 
 * [Deskripsi](#deskripsi)
 * [Instalasi](#instalasi)
@@ -6,55 +6,74 @@
 * [Pembuat Aplikasi](#pembuat-aplikasi)
 
 ## Deskripsi
-Symbolab KW 1.0 merupakan aplikasi yang berguna untuk membantu dalam menyelesaikan permasalahan persamaan matematika dasar maupun lanjutan. Tujuan utama aplikasi ini adalah untuk mempermudah pengerjaan tugas matematika dalam dunia perkuliahan. Sampai saat ini, program mendukung penghitungan turunan, integral, dan operasi matriks dasar.
+Symbolab KW Super v2.0 merupakan pengembangan dari aplikasi [Symbolab KW v1.0](https://github.com/jidandg/Symbolab-KW-1.0) yang berguna untuk membantu dalam menyelesaikan permasalahan persamaan matematika dasar maupun lanjutan. Tujuan utama aplikasi ini adalah untuk mempermudah pengerjaan tugas matematika dalam dunia perkuliahan. Sampai saat ini, program mendukung penghitungan turunan, integral, plotting grafik, dan operasi matriks dasar.
 	
 ## Instalasi
+Sebelum menggunakan aplikasi, pastikan pengguna sudah memenuhi persyaratan berikut:
+1. Memastikan sistem operasi yang digunakan adalah Windows.
+2. Mengunduh gnuplot, baik pada [tautan berikut](http://www.gnuplot.info/) maupun pada [tautan berikut](https://sourceforge.net/projects/gnuplot/files/gnuplot/5.2.8/gp528-win64-mingw.7z/download). Disarankan untuk menggunakan versi portable untuk memudahkan penggunaan.
+3. Meng-extract isi file gp528-win64-mingw.7z pada folder tertentu.
+4. Meng-copy aplikasi gnuplot.exe pada folder gnuplot\bin\, lalu meng-paste shortcutnya pada folder yang sama dengan aplikasi Symbolab-KW-Super-v2.0.exe. Lalu, merubah nama file shortcut tersebut dari "gnuplot - Shortcut" menjadi "gnuplot".
+![Copy](/Pictures/0a.PNG)
+![Paste Shortcut](/Pictures/0b.PNG)
+
 Untuk menggunakan aplikasi ini, bisa melalui dua cara:
-1. Mengunduh [aplikasi disini](/Symbolab-KW-1.0.exe). Pastikan sistem operasi yang digunakan adalah Windows.
-2. Membuka source code menggunakan compiler C. Jika belum terinstall pada komputer, bisa [diunduh disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download). Dan dilanjutkan dengan meng-compile aplikasi dari source code yang ada.
+1a. Mengunduh [aplikasi disini](/Symbolab-KW-Super-v2.0.exe).
+1b. Membuka file [source code](/Source Code/Symbolab-KW-Super-v2.0.c) menggunakan compiler C, lalu dilanjutkan dengan meng-compile aplikasi dari source code yang ada. Jika belum terinstall pada komputer, bisa [diunduh disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download). 
 
 ## Penggunaan
 ### Menu
-![Splash Screen](/pictures/1.PNG)
-![Menu](/pictures/2.PNG)
-
+![Splash Screen](/Pictures/1.PNG)
+![Menu](/Pictures/2.PNG)
 Setelah melewati splash screen, aplikasi akan masuk ke tampilan menu. Pilih menu yang diinginkan untuk memulai penghitungan.
+
 ### Turunan
-![Turunan](/pictures/3.PNG)
-
+![Turunan](/Pictures/3.PNG)
 Pada menu turunan, aplikasi akan meminta pengguna untuk memasukkan parameter-parameter dan nilai-nilai persamaan.
+
 ### Hasil Turunan
-![Hasil Turunan](/pictures/4.PNG)
+![Hasil Turunan](/Pictures/4.PNG)
+Setelah pengguna memasukkan parameter-parameter persamaan, program akan menampilkan hasil dan meminta konfirmasi untuk menampilkan grafik persamaan.
 
+### Contoh Grafik Hasil Turunan
+![Contoh Grafik Hasil Turunan](/Pictures/5.PNG)
+Contoh grafik hasil turunan.
+
+### Contoh Hasil Turunan
+![Contoh Hasil Turunan](/Pictures/6.PNG)
 Contoh hasil turunan.
-### Integral
-![Integral](/pictures/5.PNG)
 
-Pada menu integral, aplikasi akan meminta pengguna untuk memasukkan parameter-parameter awal persamaan.
 ### Menu Integral
-![Menu Integral](/pictures/6.PNG)
+![Menu Integral](/Pictures/7.PNG)
+Aplikasi akan meminta jenis operasi integral yang diinginkan.
 
-Aplikasi lalu akan meminta jenis operasi integral yang diinginkan.
 ### Integral Tak Tentu
-![Integral Tak Tentu](/pictures/7.PNG)
-
+![Integral Tak Tentu](/Pictures/8.PNG)
 Aplikasi lalu akan meminta pengguna untuk memasukkan nilai-nilai persamaan, tergantung pada jenis operasi integral yang dipilih. Terlihat pada gambar di atas, jenis operasi integral yang digunakan adalah integral tak tentu.
+
 ### Hasil Integral Tak Tentu
-![Hasil Integral Tak Tentu](/pictures/8.PNG)
+![Hasil Integral Tak Tentu](/Pictures/9.PNG)
+Setelah pengguna memasukkan parameter-parameter persamaan, program akan menampilkan hasil dan meminta konfirmasi untuk menampilkan grafik persamaan.
 
+### Contoh Grafik Hasil Integral Tak Tentu
+![Contoh Grafik Hasil Integral Tak Tentu](/Pictures/10.PNG)
+Contoh grafik hasil integral tak tentu.
+
+### Contoh Hasil Integral Tak Tentu
+![Contoh Hasil Integral Tak Tentu](/Pictures/11.PNG)
 Contoh hasil integral tak tentu.
+
 ### Menu Matriks
-![Menu Matriks](/pictures/9.PNG)
-
+![Menu Matriks](/Pictures/12.PNG)
 Pada menu matriks, aplikasi akan meminta jenis operasi matriks yang diinginkan.
+
 ### Penjumlahan Matriks
-![Penjumlahan Matriks](/pictures/10.PNG)
+![Penjumlahan Matriks](/Pictures/13.PNG)
+Aplikasi lalu akan meminta pengguna untuk memasukkan parameter-parameter dan nilai-nilai persamaan, tergantung pada jenis operasi matriks yang dipilih. Terlihat pada gambar di atas, jenis operasi matriks yang digunakan adalah perkalian matriks.
 
-Aplikasi lalu akan meminta pengguna untuk memasukkan parameter-parameter dan nilai-nilai persamaan, tergantung pada jenis operasi matriks yang dipilih. Terlihat pada gambar di atas, jenis operasi matriks yang digunakan adalah penjumlahan matriks.
-### Hasil Penjumlahan Matriks
-![Hasil Penjumlahan Matriks](/pictures/11.PNG)
-
-Contoh hasil penjumlahan matriks.
+### Contoh Hasil Perkalian Matriks
+![Contoh Hasil Perkalian Matriks](/Pictures/14.PNG)
+Contoh hasil perkalian matriks.
 
 ## Pembuat Aplikasi
 1. Jidan Dhirayoga Gumbira (1806200116)

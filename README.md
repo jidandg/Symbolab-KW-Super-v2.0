@@ -6,7 +6,7 @@
 * [Pembuat Aplikasi](#pembuat-aplikasi)
 
 ## Deskripsi
-Symbolab KW Super v2.0 merupakan pengembangan dari aplikasi [Symbolab KW 1.0](https://github.com/jidandg/Symbolab-KW-1.0) yang berguna untuk membantu dalam menyelesaikan permasalahan persamaan matematika dasar maupun lanjutan. Tujuan utama aplikasi ini adalah untuk mempermudah pengerjaan tugas matematika dalam dunia perkuliahan. Sampai saat ini, program mendukung penghitungan turunan, integral, plotting grafik, dan operasi matriks dasar.
+Symbolab KW Super v2.0 merupakan pengembangan dari aplikasi [Symbolab KW v1.0](https://github.com/jidandg/Symbolab-KW-v1.0) yang berguna untuk membantu dalam menyelesaikan permasalahan persamaan matematika dasar maupun lanjutan. Tujuan utama aplikasi ini adalah untuk mempermudah pengerjaan tugas matematika dalam dunia perkuliahan. Sampai saat ini, program mendukung penghitungan turunan, integral, plotting grafik, dan operasi matriks dasar.
 	
 ## Instalasi
 Sebelum menggunakan aplikasi, pastikan pengguna sudah memenuhi persyaratan berikut:

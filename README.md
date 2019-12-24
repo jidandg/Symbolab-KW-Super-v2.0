@@ -1,6 +1,7 @@
 # Symbolab KW Super v2.0
 
 * [Deskripsi](#deskripsi)
+* [Fitur](#fitur)
 * [Instalasi](#instalasi)
 * [Penggunaan](#pengunaan)
 * [Pembuat Aplikasi](#pembuat-aplikasi)
@@ -8,6 +9,10 @@
 ## Deskripsi
 Symbolab KW Super v2.0 merupakan pengembangan dari aplikasi [Symbolab KW v1.0](https://github.com/jidandg/Symbolab-KW-v1.0) yang berguna untuk membantu dalam menyelesaikan permasalahan persamaan matematika dasar maupun lanjutan. Tujuan utama aplikasi ini adalah untuk mempermudah pengerjaan tugas matematika dalam dunia perkuliahan. Sampai saat ini, program mendukung penghitungan turunan, integral, plotting grafik, dan operasi matriks dasar.
 	
+## Fitur
+* Pointer: Aplikasi menggunakan fungsi pointer untuk memanipulasi file koordinat grafik dan struct/linked list.
+* Struct/Linked List: Aplikasi menggunakan struct/linked list pada fungsi turunan, untuk menyimpan nilai koefisien dan pangkat persamaan.
+
 ## Instalasi
 Sebelum menggunakan aplikasi, pastikan pengguna sudah memenuhi persyaratan berikut:
 1. Memastikan sistem operasi yang digunakan adalah Windows.

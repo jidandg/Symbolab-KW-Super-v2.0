@@ -21,7 +21,7 @@ Sebelum menggunakan aplikasi, pastikan pengguna sudah memenuhi persyaratan berik
 
 Untuk menggunakan aplikasi ini, bisa melalui dua cara:
 * Mengunduh [aplikasi disini](/Symbolab-KW-Super-v2.0.exe).
-* Membuka file [source code](/Source-Code/Symbolab-KW-Super-v2.0.c) menggunakan compiler C, lalu dilanjutkan dengan meng-compile aplikasi dari source code yang ada. Jika belum terinstall pada komputer, bisa diunduh [disini](https://www.bloodshed.net/devcpp.html) atau [disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download). 
+* Mengunduh file [source code](/Source-Code/) menggunakan compiler C, lalu dilanjutkan dengan meng-compile aplikasi dari source code yang ada. Jika belum terinstall pada komputer, bisa diunduh [disini](https://www.bloodshed.net/devcpp.html) atau [disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download). 
 
 ## Penggunaan
 ### Menu

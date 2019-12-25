@@ -18,7 +18,7 @@ Sebelum menggunakan aplikasi, pastikan pengguna sudah memenuhi persyaratan berik
 1. Memastikan sistem operasi yang digunakan adalah Windows.
 2. Mengunduh gnuplot, baik pada [tautan berikut](http://www.gnuplot.info/) maupun pada [tautan berikut](https://sourceforge.net/projects/gnuplot/files/gnuplot/5.2.8/gp528-win64-mingw.7z/download). Disarankan untuk menggunakan versi portable untuk memudahkan penggunaan.
 3. Meng-extract isi file gp528-win64-mingw.7z pada folder tertentu.
-4. Meng-copy aplikasi gnuplot.exe pada folder gnuplot\bin\, lalu meng-paste shortcutnya pada folder yang sama dengan aplikasi Symbolab-KW-Super-v2.0.exe. Lalu, merubah nama file shortcut tersebut dari "gnuplot - Shortcut" menjadi "gnuplot".
+4. Meng-copy aplikasi gnuplot.exe pada folder gnuplot\bin\, lalu meng-paste shortcutnya pada folder yang sama dengan aplikasi Symbolab-KW-Super-v2.0.exe. Lalu, merubah nama file shortcut tersebut dari "gnuplot - Shortcut" menjadi "gnuplot". Hal ini agar program gnuplot dapat diakses oleh program untuk menjalankan fungsi plotting grafik.
 ![Copy](/Pictures/0a.png)
 ![Paste Shortcut](/Pictures/0b.png)
 ![Old Name](/Pictures/0c.png)
